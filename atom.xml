@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://localhost:4000</id>
+    <title>中国机器人及人工智能大赛官网</title>
+    <updated>2026-01-23T06:39:34.049Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="http://localhost:4000"/>
+    <link rel="self" href="http://localhost:4000/atom.xml"/>
+    <subtitle>中国机器人及人工智能大赛官网</subtitle>
+    <logo>http://localhost:4000/images/avatar.png</logo>
+    <icon>http://localhost:4000/favicon.ico</icon>
+    <rights>All rights reserved 2026, 中国机器人及人工智能大赛官网</rights>
+    <entry>
+        <title type="html"><![CDATA[test12]]></title>
+        <id>http://localhost:4000/post/test12/</id>
+        <link href="http://localhost:4000/post/test12/">
+        </link>
+        <updated>2026-01-22T07:09:35.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[test11]]></title>
+        <id>http://localhost:4000/post/test11/</id>
+        <link href="http://localhost:4000/post/test11/">
+        </link>
+        <updated>2026-01-22T07:08:53.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[test9]]></title>
+        <id>http://localhost:4000/post/test9/</id>
+        <link href="http://localhost:4000/post/test9/">
+        </link>
+        <updated>2026-01-22T07:06:49.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[test8]]></title>
+        <id>http://localhost:4000/post/test8/</id>
+        <link href="http://localhost:4000/post/test8/">
+        </link>
+        <updated>2026-01-22T07:06:31.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[test7]]></title>
+        <id>http://localhost:4000/post/test7/</id>
+        <link href="http://localhost:4000/post/test7/">
+        </link>
+        <updated>2026-01-22T07:06:16.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[test6]]></title>
+        <id>http://localhost:4000/post/test6/</id>
+        <link href="http://localhost:4000/post/test6/">
+        </link>
+        <updated>2026-01-22T07:06:00.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[test10]]></title>
+        <id>http://localhost:4000/post/test10/</id>
+        <link href="http://localhost:4000/post/test10/">
+        </link>
+        <updated>2026-01-22T07:05:33.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[test05]]></title>
+        <id>http://localhost:4000/post/test05/</id>
+        <link href="http://localhost:4000/post/test05/">
+        </link>
+        <updated>2026-01-22T07:04:04.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[通知测试01]]></title>
+        <id>http://localhost:4000/post/tong-zhi-ce-shi-01/</id>
+        <link href="http://localhost:4000/post/tong-zhi-ce-shi-01/">
+        </link>
+        <updated>2026-01-21T08:37:53.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[test04]]></title>
+        <id>http://localhost:4000/post/test04/</id>
+        <link href="http://localhost:4000/post/test04/">
+        </link>
+        <updated>2026-01-21T07:53:00.000Z</updated>
+    </entry>
+</feed>
