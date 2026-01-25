@@ -251,6 +251,10 @@ h2 a:visited {
   display: flex;
   align-items: center;
 }
+.post img {
+  max-width: 95%;
+  object-fit: contain;
+}
 .post-title {
   color: #1a365d;
   text-align: center;
